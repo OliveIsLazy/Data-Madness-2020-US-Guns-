@@ -7,3 +7,8 @@ The jupyter notebooks stored here were never meant to be seen by human eyes. Vie
   1) Download and extract dataset from the kaggle link above
   2) Run the processing notebook with the csv file in the same directory
   3) Run the ilustrating notebook in the same directory
+
+---
+## Datamadness Submission
+ - Video is viewable on [youtube](https://www.youtube.com/watch?v=LF1JBuWitq8&feature=youtu.be)
+ - Abstract is in the repo [above]()
