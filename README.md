@@ -7,7 +7,7 @@ Co-created with [KarimAK99](https://github.com/KarimAK99)
 ---
 ## Datamadness Submission
  - Video is viewable on [youtube](https://www.youtube.com/watch?v=LF1JBuWitq8&feature=youtu.be)
- - Abstract is in the repo [above]()
+ - Abstract is in the repo [above](https://github.com/OliveIsLazy/Data-Madness-2020-US-Guns-/blob/master/abstract.pdf)
 
 ### Questions answered (vaguely)
 - Which states, counties and congressional districts have the highest rates of shootings, both fatal and non-fatal?
